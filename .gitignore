@@ -1,8 +1,11 @@
+#  MYSQL AND DOCKER TOOK OF BECAUSE OF GIT.
+mysql
+docker-compose.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-
 # C extensions
 *.so
 
